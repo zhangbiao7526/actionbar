@@ -12,6 +12,8 @@ public class aaa extends Activity{
 		// TODO Auto-generated method stub
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.layout_title);
+		
+		int a;
 	}
 
 }
